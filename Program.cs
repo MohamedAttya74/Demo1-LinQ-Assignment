@@ -74,7 +74,7 @@
             ///   int Y = intExtention.Reverse(X);
             ///   X.Reverse();
             ///   Console.WriteLine(Y);
-
+             
 
             #endregion
         }
