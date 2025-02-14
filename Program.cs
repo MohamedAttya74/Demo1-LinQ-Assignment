@@ -275,7 +275,6 @@ namespace Demo1_LinQ_Assignment
 
             #endregion
 
-
             #region Filtration [Restriction] Operators - Where 
 
             #region Get Product Out Of Stock 
